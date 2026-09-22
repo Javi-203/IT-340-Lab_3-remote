@@ -1,0 +1,31 @@
+commit dc60640dbfc351b9f52de79d7d95f3eb2fff1b70
+Author: Javi-203 <javiercardoza100@gmail.com>
+Date:   Tue Sep 22 14:56:08 2026 -0400
+
+    Revert "test commit 3 - creating new text file with some text inside"
+    
+    This reverts commit 0bc31d64d7d6d800a3b3da8040e9ac6247273eda.
+
+commit 0bc31d64d7d6d800a3b3da8040e9ac6247273eda
+Author: Javi-203 <javiercardoza100@gmail.com>
+Date:   Tue Sep 22 14:55:13 2026 -0400
+
+    test commit 3 - creating new text file with some text inside
+
+commit 7ef04ac5d1e92a3e8b7b5680c521e9347e2b2069
+Author: Javi-203 <javiercardoza100@gmail.com>
+Date:   Tue Sep 22 14:53:05 2026 -0400
+
+    test commit 2 - committing change to hostname
+
+commit d9f231801a0b2521186779781b11f8d3f788ac55
+Author: Javi-203 <javiercardoza100@gmail.com>
+Date:   Tue Sep 22 14:34:21 2026 -0400
+
+    test commit 1 - committing file "group" in test branch
+
+commit a26f1cf5557d728cb112734432a21feb16449c35
+Author: Javi-203 <javiercardoza100@gmail.com>
+Date:   Tue Sep 22 14:27:43 2026 -0400
+
+    Commit 1 - commiting copied files to local repo
